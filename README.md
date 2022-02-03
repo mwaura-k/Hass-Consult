@@ -1,6 +1,9 @@
 # Hass Consult Consulting Company
 ## Context
 
+Hass Consult Limited is a Real Estate firm that was formed in the year 1992. They have been in the market over 25+ years still holding onto a vision to establish a comprehensive firm that reinvents the market patterns by introducing transparency, integrity and professionalism in a market calling for more global standards.
+
+The company offers a variety of services ranging from new property development and consultancy to letting, selling and managing of residential and commercial properties, and more recently valuations of all kinds of properties, including hotels, businesses and industries.
 
 # Define the question
 We will be working for Hass Consulting Company, a real estate firm. The goal is to determine the factors that may affect housing prices; information that was gathered over the previous months. 
