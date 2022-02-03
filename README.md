@@ -5,15 +5,17 @@ Hass Consult Limited is a Real Estate firm that was formed in the year 1992. The
 
 The company offers a variety of services ranging from new property development and consultancy to letting, selling and managing of residential and commercial properties, and more recently valuations of all kinds of properties, including hotels, businesses and industries.
 
-# Define the question
+## Define the question
 We will be working for Hass Consulting Company, a real estate firm. The goal is to determine the factors that may affect housing prices; information that was gathered over the previous months. 
 Also, we are to create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
 
-# Success Metric
-The goal is to determine the factors that may affect housing prices; information that was gathered over the previous months. Also, we are to create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
+## Success Metric
 
+Ensuring that the models created are able to give accurate predictions; 80% accuracy on the sale of prices with the right predictor variables.
 
-# Experimental Design
+Determine the factors that affect the pricing of houses and giving insights and recommendations from the data collected.
+
+## Experimental Design
 
 Load the dataset and study it.
 
